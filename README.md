@@ -1,5 +1,6 @@
 # Diagrama de Clases
 Este diagrama representa la arquitectura de "Dulce Delirio". Muestra cómo la clase ProductoCard hereda de Flet y cómo se relaciona con los datos de la dataclass.
+
 <img width="311" height="451" alt="image" src="https://github.com/user-attachments/assets/525cce13-97f5-4235-a1c7-20870aabe789" />
 # Explicación de la Herencia
 Para el desarrollo del componente personalizado ProductoCard, se utilizó la clase base ft.Container de Flet.

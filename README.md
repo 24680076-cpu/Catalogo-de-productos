@@ -21,3 +21,7 @@ Para que el framework reconozca las imágenes de los postres, se realizó la sig
 * Vinculación en el Código: En la función de arranque de la aplicación, se especificó el parámetro assets_dir="assets" dentro del método ft.app().
 
 * Referencia Relativa: En la capa de datos (dataclass), las rutas de las imágenes se definieron de forma simplificada (ej. "frappe.png"). Flet, al estar configurado con el directorio de recursos, busca automáticamente estos archivos dentro de la carpeta mencionada, permitiendo que las imágenes se desplieguen correctamente tanto en modo escritorio como en el servidor web.
+# Captura  de Pantalla
+<img width="1326" height="665" alt="image" src="https://github.com/user-attachments/assets/591a089c-184f-4ecd-8bd8-bd28c289f936" />
+# Link de la pagina web en netlify
+https://silly-lokum-08d706.netlify.app/

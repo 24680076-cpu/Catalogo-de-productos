@@ -25,5 +25,4 @@ Para que el framework reconozca las imágenes de los postres, se realizó la sig
 <img width="1326" height="665" alt="image" src="https://github.com/user-attachments/assets/591a089c-184f-4ecd-8bd8-bd28c289f936" />
 
 # Link de la pagina web en netlify
-
 https://silly-lokum-08d706.netlify.app/
